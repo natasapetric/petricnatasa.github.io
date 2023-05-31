@@ -1,0 +1,51 @@
+body{
+    background-image: url(paper-rustic-background-preview.jpg);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    background-color:#ffd483 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+    text-align: center;
+}
+p{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    text-indent: 30px;
+    color: #000;
+    text-align: justify;
+}
+th, td{
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(47, 0, 0);
+    color: #ffd483;
+}
+table{
+    text-align: center;
+}
+a{
+    color: #ffd483;
+    text-decoration: none;
+}
+ul{
+    font-size: 20px;
+    list-style-type:square;
+}
+.top{
+    color: rgb(47, 0, 0);
+    text-align: center;
+    text-shadow: 3px 2px 5px rgb(0, 0, 0);
+}
+.citirano{
+    border: 3px solid rgb(47, 0, 0);
+    text-align: justify;
+    text-indent: 50px;
+    padding: 5px;
+}

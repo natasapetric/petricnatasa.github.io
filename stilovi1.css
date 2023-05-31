@@ -1,0 +1,40 @@
+body {
+    background-image: url(paper-book-book-pages-tangle-preview.jpg);
+    height: 90px;
+    color: rgb(0, 0, 0);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color:rgb(47, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 500%;
+    text-align: center;
+    color: #ffd483;
+}
+.napomena{
+    border: 5px solid rgb(47, 0, 0);
+    font-size: 25px;
+    background-color: #ffd483;
+    text-indent: 100px;
+}
+th, td{
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(47, 0, 0);
+    color: #ffd483;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+a{
+    color: #ffd483;
+    text-decoration: none;
+}
